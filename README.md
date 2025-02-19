@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and Nextjs
 - 👯 I’m looking to collaborate on Frontend projects and looking for a job
 - 🤔 I’m looking for help with resources for frontend development
 - 💬 Ask me about Frontend languages and tools
