@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning React.js and Nextjs
+- 🌱 I’m currently learning everything i can get my hands on!
 - 👯 I’m looking to collaborate on Frontend projects and looking for a job
-- 🤔 I’m looking for help with resources for frontend development
+- 🤔 I’m also looking to play with GSAP and framer, make so cool stuffs.
 - 💬 Ask me about Frontend languages and tools
-- 📫 How to reach me: @sydneydaniel76@gmail.com
+- 📫 How to reach me? mail me at sydneydaniel76@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a night owl! :\
