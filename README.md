@@ -1,4 +1,4 @@
-### Hi there 👋 I am Daniel Ojo
+### Hi there 👋 I am Thoobi
 
 <!--
 **Thoobi/Thoobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Frontend projects and looking for a job
 - 🤔 I’m also looking to play with GSAP and framer, make so cool stuffs.
 - 💬 Ask me about Frontend languages and tools
-- 📫 How to reach me? mail me at sydneydaniel76@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a night owl! :\
